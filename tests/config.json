@@ -1,0 +1,8 @@
+{
+    "foo": {
+        "bar": "really not hello",
+        "baz": "absolutely not hello"
+    },
+    "bar": "hello world",
+    "barbar": "from base config"
+}
